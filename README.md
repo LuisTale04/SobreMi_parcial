@@ -1,6 +1,6 @@
 # SobreMi_parcial
  este repositorio se usará para el parcial I
-# Los temas que mas me gustaron son:'encabezado'
+# Los temas que mas me gustaron son:
 
 estos son algunos de los temas que me gustan en los diferentes cursos.
 
